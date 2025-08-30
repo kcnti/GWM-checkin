@@ -1,6 +1,6 @@
 # GWM Auto Check in
 
-An automated Python tool for daily check-ins to the GWM (Great Wall Motors) cloud service. Earn points effortlessly with automatic authentication and daily check-in submissions.
+An automated Python tool for daily check-ins to the "My GWM" mobile application. Earn points effortlessly with automatic authentication and daily check-in submissions to your Great Wall Motors account.
 
 ## Features
 
